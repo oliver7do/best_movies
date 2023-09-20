@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(/views/asset/img/1.jpg);
+}
+
+.collapse {
+    display: flex !important;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+}
+
+i {
+    font-size: 2em;
+}
